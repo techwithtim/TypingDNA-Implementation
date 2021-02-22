@@ -1,6 +1,6 @@
 # TypingDNA Implementation
 
-## Setup & Installtion
+## Setup & Installation
 
 Make sure you have the latest version of python installed.
 
