@@ -3,9 +3,8 @@ import base64
 import json
 
 base_url = 'https://api.typingdna.com'
-id = ''
 apiKey = '0fe67243b0f70a83a1c3fa7fb76ddd3e'
-apiSecret = '<insert>'
+apiSecret = '012526c122551650ae0aae249a5bf331'
 
 
 def send_typing_data(user_id, pattern):
