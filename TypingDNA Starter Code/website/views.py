@@ -1,7 +1,6 @@
 from flask import Blueprint, render_template, request, flash, jsonify, make_response
 from . import db
 import json
-from .typingdna import send_typing_data
 
 views = Blueprint('views', __name__)
 
