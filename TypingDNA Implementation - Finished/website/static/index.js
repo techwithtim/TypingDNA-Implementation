@@ -80,7 +80,7 @@ function sendTypingData(id, text) {
         );
         window.location.href = "/typing-patterns";
       } else {
-        if (data.high_confidence == 1) {
+        if (data.result == 1) {
           alert(
             "TypingDNA indicated that there was HIGH confidence in your login."
           );
